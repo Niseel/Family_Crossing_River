@@ -1,0 +1,12 @@
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\bin\Debug\FamilyCrossRiver.exe.config
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\bin\Debug\FamilyCrossRiver.exe
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\bin\Debug\FamilyCrossRiver.pdb
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\obj\Debug\FamilyCrossRiver.csprojAssemblyReference.cache
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\obj\Debug\FamilyCrossRiver.Properties.Resources.resources
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\obj\Debug\FamilyCrossRiver.csproj.GenerateResource.cache
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\obj\Debug\FamilyCrossRiver.csproj.CoreCompileInputs.cache
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\obj\Debug\FamilyCrossRiver.exe
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\obj\Debug\FamilyCrossRiver.pdb
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\bin\Debug\SwiPlCs.xml
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\obj\Debug\FamilyCrossRiver.Form1.resources
+C:\Users\THANH\source\repos\FamilyCrossRiver\FamilyCrossRiver\obj\Debug\FamilyCrossRiver.csproj.CopyComplete
